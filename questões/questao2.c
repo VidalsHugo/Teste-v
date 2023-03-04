@@ -28,7 +28,7 @@ int main() {
 	}
 	
 	flag==1 ? printf("Pertence a sequencia de Fibonacci.\n") :
-		 	printf("Nao pertence a sequencia de Fibonacci.\n");
+		 printf("Nao pertence a sequencia de Fibonacci.\n");
 
 	return 0;
 }
