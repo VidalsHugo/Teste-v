@@ -8,6 +8,8 @@ int main() {
 
 	float dist = 100, vel1 = 110.0, vel2 = 80;
 	
+	// transformando de KM/H para KM/M
+	
 	float v1 = vel1/60;
 	float v2 = vel2/60;
 	
